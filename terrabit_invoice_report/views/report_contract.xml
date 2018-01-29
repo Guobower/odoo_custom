@@ -43,7 +43,7 @@
                     <span t-field="company.name"/>, cu sediul in loc. <span t-field="company.city"/>,
                     <span t-field="company.street"/>, jud. <span t-field="company.state_id"/>, <span t-field="company.country_id"/>,
                     nr. ORC <span t-field="company.company_registry"/>, CUI <span t-field="company.vat"/>,
-                    capital social subscris si varsat: <span t-field="company.vat"/>, in calitate de prestator/furnizor si
+                    capital social subscris si varsat: <span t-field="company.share_capital"/> lei, in calitate de prestator/furnizor si
                 </p>
                 <p style="text-indent:50px;">
                     <t t-if="o.partner_id.company_type=='person'">
