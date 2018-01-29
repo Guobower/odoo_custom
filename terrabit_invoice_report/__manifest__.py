@@ -14,16 +14,18 @@ Functionalitati:
  - Tiparirea facturii conform legislatiei
     - mosteneste account.report_invoice
     - varianta de tiparire in engleza
+ - Tiparire contracte
  
  - Print invoice according to romanian legislation
     - inherits account.report_invoice
     - english print
+ - Print contracts
 
     """,
     "category": "Accounting",
-    "depends": ['account', 'sale','l10n_ro_config','l10n_ro_invoice_report'],
+    "depends": ['account', 'sale','l10n_ro_config','l10n_ro_invoice_report','contract'],
 
-    "data": [ 'views/report_invoice.xml'],
+    "data": [ 'views/report_invoice.xml','views/report_contract.xml'],
     "active": False,
     "installable": True,
 }
