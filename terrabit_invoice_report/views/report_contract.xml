@@ -21,7 +21,320 @@
         </t>
         <t t-set="o" t-value="o.with_context({'lang':o.partner_id.lang})" />
         <div class="page">
-
+            <div id="header">
+                <div class="row" customize_show="True">
+                    <div class="col-s-3" style="height:45px;">
+                        <img t-if="company.logo" t-att-src="'data:image/png;base64,%s' % company.logo" style="max-height: 42px;vertical-align:middle;float:left;"/>
+                        <!--<img t-if="o.company_id.logo" t-att-src="'data:image/png;base64,%s' % company.logo" style="max-height: 45px;"/>-->
+                    </div>
+                    <div class="col-xs-9 text-right" style="margin-top:0px;" t-field="company.rml_header1"/>
+                </div>
+                <div class="row zero_min_height">
+                    <div class="col-xs-12">
+                        <div style="border-bottom: 1px solid black;"/>
+                    </div>
+                </div>
+            </div>
+            <div> <!--body-->
+                <br/>
+                <div style="margin-left:auto;margin-right:auto;">CONTRACT DE FURNIZARE SERVICII DE TELECOMUNICATII NR. <span t-field="o.name"/> DIN DATA DE <span t-field="o.date_start"/></div>
+                <p>Partile prezentului contract sunt:</p>
+                <p style="text-indent:50px;">
+                    <span t-field="company.name"/>, cu sediul in loc. <span t-field="company.city"/>,
+                    <span t-field="company.street"/>, jud. <span t-field="company.state_id"/>, <span t-field="company.country_id"/>,
+                    nr. ORC <span t-field="company.company_registry"/>, CUI <span t-field="company.vat"/>,
+                    capital social subscris si varsat: <span t-field="company.vat"/>, in calitate de prestator/furnizor si
+                </p>
+                <p style="text-indent:50px;">
+                    <t t-if="o.partner_id.company_type=='person'">
+                        Dl/Dna <span t-field="o.partner_id.name"/>, cu domiciliul in <span t-field="o.partner_id.street"/>, <span t-field="o.partner_id.city"/>, jud. <span t-field="o.partner_id.state_id"/>
+                        <t t-if="o.partner_id.phone">
+                            , telefon <span t-field="o.partner_id.phone"/>
+                        </t>
+                        <t t-if="o.partner_id.mobile">
+                            , mobil <span t-field="o.partner_id.mobile"/>
+                        </t>
+                        <t t-if="o.partner_id.email">
+                            , e-mail <span t-field="o.partner_id.email"/>
+                        </t>
+                        , reprezentata legal de: __________________________________, in calitate de client.
+                    </t>
+                    <t t-if="o.partner_id.company_type=='company'">
+                        <span t-field="o.partner_id.name"/>, cu sediul in <span t-field="o.partner_id.street"/>, <span t-field="o.partner_id.city"/>, jud. <span t-field="o.partner_id.state_id"/>
+                        , CUI <span t-field="o.partner_id.vat"/>, nr. ORC <span t-field="o.partner_id.nrc"/>
+                        <t t-if="o.partner_id.mobile">
+                            , mobil <span t-field="o.partner_id.mobile"/>
+                        </t>
+                        <t t-if="o.partner_id.email">
+                            , e-mail <span t-field="o.partner_id.email"/>
+                        </t>
+                        reprezentata legal de: __________________________________, in calitate de beneficiar.
+                    </t>
+                </p>
+                <p style="font-weight:bold;">Art. 1 Adresa instalare, adresa de facturare, oferta si pretul contractului :</p>
+                <!-- cautare adresa facturare-->
+                <t t-set="invoice_address" t-value="0"/>
+                <t t-if="o.partner_id.child_ids">
+                    <t t-foreach="o.partner_id.child_ids" t-as="address">
+                        <t t-if="address.type=='invoice'">
+                            <t t-set="invoice_address" t-value="address"/>
+                        </t>
+                    </t>
+                </t>
+                <p>
+                    <t t-if="not invoice_address">
+                        <span>Adresa instalare/facturare: </span>
+                        <span t-field="o.partner_id.street"/>, <span t-field="o.partner_id.city"/>, jud. <span t-field="o.partner_id.state_id"/>
+                    </t>
+                    <t t-if="invoice_address">
+                        <span>Adresa instalare: </span>
+                        <span t-field="o.partner_id.street"/>, <span t-field="o.partner_id.city"/>, jud. <span t-field="o.partner_id.state_id"/>
+                        <br />
+                        <span>Adresa facturare: </span>
+                        <span t-field="invoice_address.street"/>, <span t-field="invoice_address.city"/>, jud. <span t-field="invoice_address.state_id"/>
+                    </t>
+                    <br/>
+                    <span>Servicii Comunicatii Electronice - Modalitate de plata: normal; Perioada de facturare: lunar.</span>
+                    <br/>
+                    <span>Caracteristici: </span>
+                    <t t-set="lines" t-value="[]"/>
+                    <t t-foreach="o.recurring_invoice_line_ids" t-as="line">
+                        <t t-set="lines" t-value="lines+[line.product_id.name]"/>
+                    </t>
+                    <span t-esc="', '.join(lines)"/>.
+                    <br/>
+                    <!--get taxes value-->
+                    <t t-set="taxes" t-value="0"/>
+                    <t t-set="subtotal" t-value="0"/>
+                    <t t-set="install_product" t-value="0"/>
+                    <t t-foreach="o.recurring_invoice_line_ids" t-as="line">
+                        <t t-set="tax_value" t-value="0"/>
+                        <t t-foreach="line.product_id.taxes_id" t-as="tax">
+                            <t t-set="tax_value" t-value="tax.amount"/>
+                        </t>
+                        <t t-set="taxes" t-value="taxes+(line.price_subtotal*tax_value/100)"/>
+                        <t t-set="subtotal" t-value="subtotal+line.price_subtotal"/>
+                    </t>
+                    <t t-set="taxes" t-value="round(taxes,2)"/>
+                    <span>Abonament lunar de achitat: </span><span t-esc="'{0:,.2f}'.format(subtotal+taxes)"/> RON/luna;
+                    <span>Pret neredus(intreg): </span><span t-esc="'{0:,.2f}'.format(2*(subtotal+taxes))"/> RON/luna;
+                    <br/>
+                    <span>Perioada minima contractuala: 24 luni;</span>
+                    <br/>
+                    <span>Taxa de instalare: ______ RON; Pret neredus(intreg):______ RON</span>
+                    <br/>
+                    <span>Tarif reconectare: 50 RON/reconectare; Tarif deconectare: 50 RON/deconectare.</span>
+                    <br/>
+                    <span>Total reduceri: </span>(<span t-esc="'{0:,.2f}'.format(2*(subtotal+taxes))"/>-<span t-esc="'{0:,.2f}'.format(subtotal+taxes)"/>) RON X 24 luni promo = <span t-esc="'{0:,.2f}'.format(24*(subtotal+taxes))"/> RON
+                </p>
+                <p style="font-weight:bold;">Art. 2 Obiectul si durata contractului</p>
+                <p>
+                    Obiectul il constitue furnizarea unor servicii de comunicatii electronice Beneficiarului, conform celor descrise la art. 1. Prezentul contract
+intra in vigoare de la data semnarii sale. <strong>Durata prezentului contract este cea precizata mai sus si reprezinta numarul de luni active
+(achitate), perioada minima contractuala prelungindu-se cu numarul de zile in care abonamentul a fost suspendat sau deconectat.</strong>
+Contractul va putea fi denuntat doar de catre Prestator, cu notificare scrisa, in care se va preciza motivul denuntarii contractului, cu cel putin
+30 de zile calendaristice inainte de incetarea acestuia. <strong>Beneficiarul (Clientul) poate sa renunte la prezentul contract oricand inainte de
+incheierea perioadei minime contractuale, indiferent de motivul invocat, doar daca va achita totalitatea reducerilor primite la
+abonamentul lunar, taxa instalare si achizitie echipament, daca este cazul.</strong> Rezilierea contractului va putea fi facuta doar de catre
+Beneficiar, printr-o cerere scrisa, care va fi depusa la casieria Prestatorului, cu 30 zile calendaristice inainte de data la care se doreste
+inchiderea abonamentului. Denuntarea prezentului contract nu afecteaza obligatii scadente dintre cele doua parti.
+                </p>
+                <p style="font-weight:bold;">Art. 3 Disfunctionalitati in asigurarea serviciilor</p>
+                <p>
+                    Prestatorul asigura disponibilitatea serviciului 24 de ore pe zi. Disponibilitatea minima a serviciului acceptata de Beneficiar este de 90%
+pentru perioada de facturare. Disponibilitatea serviciului asigurata de Prestator include liniile de comunicatie si echipamentele de
+comunicatie asigurate de catre Prestator (detinute de Beneficiar in baza unui contract de inchiriere, acord de amplasare, vandute
+Beneficiarului de catre Prestator si care se afla inca in perioada de garantie) sau detinute de Beneficiar si acceptate de Prestator, fara a
+include liniile de comunicatie si echipamentele furnizate de tertii Beneficiarului pentru accesul la sevicii. Se considera intrerupere a furnizarii
+serviciului orice intrerupere neanuntata cu o durata mai mare de 120 minute. Nu se vor lua in calcul: 1).intreruperile pentru efectuarea de
+lucrari de intretinere/inlocuire a retelei si echipamentelor, anuntate de catre Prestator Beneficiarului cu cel putin 48 ore inainte. Acestea vor
+putea avea o durata maxima de 5 ore/saptamana; 2).intreruperi datorate culpei Beneficiarului sau unor terti pentru care Prestatorul nu este
+tinut sa raspunda; 3). intreruperile datorate fortei majore, asa cum este definita in Contract. Durata intreruperii se contorizeaza din momentul
+anuntarii telefonice de catre Beneficiar (moment in care Prestatorul va acorda sesizarii un numar de inregistrare, mentionand si ora exacta a
+primirii acesteia ) pana la momentul rezolvarii ei de catre Prestator. Prestatorul va acorda o reducere care se va calcula proportional cu durata
+totala de nefunctionare din cuprinsul perioadei de facturare (calculata prin insumarea intreruperilor neanuntate de Prestator, ce indeplinesc
+conditiile prevazute mai sus. Reducerea acordata de Prestator este cel mult egala cu tarifele corespunzatoare perioadei de facturare.
+Prestatorul va evidentia eventuala reducere acordata pentru intreruperile din perioada de facturare anterioara in urmatoarea factura
+comunicata Beneficiarului. Daca Beneficiarul nu este de acord cu cuantumul reducerii, poate cere, in scris, pana la scadenta facturii,
+verificarea timpului de intrerupere a furnizarii serviciului in luna anterioara. In urma verificarii, partile vor conveni, de comun acord, in scris,
+cuantumul reducerii facturii. In cazul in care Prestatorul nu a instiintat Beneficiarul despre efectuarea unei reduceri, Beneficiarul va putea
+solicita reducerea pe care o considera cuvenita, in termenul prevazut mai sus. Lipsa unei astfel de solicitari scrise a Beneficiarului semnifica
+acceptarea facturii. Daca echipamentele necesare Beneficiarului au fost puse la dispozitia acestuia de catre Prestator la locatia Beneficiarului,
+Beneficiarul are obligatia de a plati tarifele produselor contractate si pentru perioadele in care furnizarea serviciilor nu a fost posibila datorita
+defectarii sau deteriorarii acestor echipamente din culpa Beneficiarului/Reprezentantilor sai. Beneficiarul are dreptul sa apeleze la seviciile
+reprezentantilor Prestatorului atunci cand intampina dificultati in accesarea retelei Prestatorului. In cazul in care Beneficiarul solicita,
+reprezentantii Prestatorului se vor deplasa la locatia Beneficiarului in maxim de 72 de ore, daca solicitarea a fost inregistrata intr-o zi
+lucratoare. In cazul in care s-a constatat ca deplasarea nu era necesara sau ca disfunctionalitatea se datora echipamentelor sau retelei proprii a
+Beneficiarului, aceasta va fi facturata de Prestator la tarifele de la data interventiei. Tehnicienii Prestatorului vor efectua la locatia
+Beneficiarului numai operatiunile strict necesare pentru repunerea in functiune a serviciului.
+                </p>
+                <p style="font-weight:bold;">Art. 4 FACTURAREA SERVICIULUI</p>
+                <p>
+                    In momentul prezentarii Beneficiarului la caseria Prestatorului, Prestatorul va emite factura aferenta perioadei de folosinta a serviciului
+conform contractului, si se va achita conform optiunii alese de catre beneficiar, normal sau in avans. Perioada de facturare a serviciului este
+descrisa la art. 1. In cazul intarzierii unei plati de catre Beneficiar, prestatorul poate intrerupe furnizarea serviciilor incepand cu prima zi
+urmatoare scadentei, notificand prin email sau sms Beneficiarul, cu 15 zile inainte de data deconectarii, privind sold-ul restant. Reconectarea
+se face dupa achitarea de catre Beneficiar a tuturor sumelor datorate, inclusiv plata taxei de reactivare (daca este specificata in contract). La
+semnarea contractului Prestatorului va emite factura pentru lucrarile de instalare a serviciului sau aceste lucrari vor aparea pe prima factura
+emisa. Pentru prima luna calendaristica de furnizare a produselor, Prestatorul va emite factura serviciilor reprezentand o suma calculata
+proportional cu numarul de zile de furnizare a produsului(lor) (incepand din momentul activarii contului de utilizator sau punerii in functiune
+1a serviciului), raportat la numarul total de zile ale acelei luni. Abia dupa ce a achitat aceasta factura, utilizatorul va putea beneficia de oferta
+descrisa la art. 1. Instalarea serviciilor vor fi realizate de catre reprezentantii Prestatorului in termenul convenit, dupa achitarea de catre
+Beneficiar a sumelor datorate potrivit devizului de instalare ce a fost acceptat de Beneficiar in momentul semnarii prezentei anexe, daca este
+cazul. Indiferent de modalitatea de plata aleasa (normala sau in avans) clientul nu este obligat sa achite garantie de respectare a contractului.
+Echipamentele si materialele folosite (cabluri bransament, switch-uri) folosite pentru instalarea serviciului sunt proprietatea furnizorului.
+Prorietatea asupra acestor echipamente se transfera Beneficiarul numai in cazul in care materialele respective apar facturate separat de catre
+PRESTATOR si valoarea acestora a fost achitata de catre Beneficiar.
+                </p>
+                <p style="font-weight:bold;">Art. 5 OBLIGATIILE PRESTATORULUI</p>
+                <p>
+                    Instalarea unui circuit de comunicatii electronice prin cablu in locuita/sediul Clientului conform solicitarii Clientului. Furnizarea serviciilor
+contractate in mod continuu in conditiile prezentului Contract. Modificarile prezentului contract vor fi comunicate Beneficiarului prin e-mail,
+sms si in centrele de relatii clienti. Intretinerea retelei si a circuitului de comunicatii electronice, inclusiv prin verificarea periodica a retelei
+de distributie si a echipamentelor aferente retelei cu aparatura de masura si control specifica comunicatiilor electronice. Asigurarea unui
+serviciu de relatii cu clientii in timpul orelor de program anuntate prin afisarea in centrele de relatii cu clientii. Sesizarile si reclamatiile
+Clientului se depun la sediul/punctele de lucru ale Prestatorului sau se trimit telefonic. Prestatorul se obliga sa ii comunice clientului numarul
+cu care s-a inregistrat sesizarea sa. Orice schimbare a modalitatilor de comunicare cu clientii vor fi anuntate prin email sau sms si prin afisare
+in centrele de relatii cu clientii. Remedierea defectiunii se confirma prin semnatura data de catre client pe ordinul de lucru in cazul
+defectiunilor circuitului de comunicatii electronice la adresa de instalare sau prin confirmare telefonica. Prestatorul va asigura evidenta
+acestor confirmari de remediere prin intermediul unui registru de confirmari telefonice. Prestatorul este responsabil pentru furnizarea
+serviciilor mentionare in contract, mai putin in urmatoarele cazuri: caderi accidentale sau programate ale tensiunii datorate furnizorului de
+energie electrica sau variatii mai mari de 10 % ale tensiunii electrice pe retea; intreruperea temporara a serviciilor cauzate de lucrarile
+efectuate de furnizorii locali de utilitati publice (Electrica, Regia Autonoma de Transport Local, alti furnizori – gaz,apa etc.); bruiaje electrice
+exterioare datorate interferentelor radio-electrice; receptia necorespunzatoare a serviciilor datorata performantelor inferioare ale
+echipamentelor aflate in proprietatea /folosinta Clientului (ex: televizor,calculator,voip) sau deteriorari ale circuitului de comunicatii
+electronice prin cablu ce nu poate fi imputata furnizorului, performantelor inferioare ale circuitului de comunicatii electronice prin cablu in
+cazul in care acesta a fost construit de catre client prin mijloace propri, situatie in care semnalul se masoara la punctul de bransament;
+interventia unor persoane neautorizate de catre Prestator la reteaua de comunicatii electronice, furtul si distrugerea componentelor retelei de
+comunicatii electronice din zona, deranjamente datorate furtului de semnal. Defectiunile datorate interventiei unor persoane neautorizate de
+catre Prestator, desigilarii, deteriorarii voite sau folosirii incorecte a echipamentelor, distrugerilor sau furtului unor elemente componente,
+inclusiv portiuni din cablu, dovedite a fi din vina CLIENTULUI, se vor remedia pe cheltuiala acestuia din urma.
+                </p>
+                <p style="font-weight:bold;">Art. 6 OBLIGATIILE BENEFICIARULUI/CLIENTULUI</p>
+                <p>
+                    Efectuarea platii tarifelor aferente serviciilor contractate, respectand conditiile si termenele de plata prevazute in prezentul contract; este de
+acord cu lucrarile de instalare a retelei si a circuitului de comunicatii electronice in si pe imobil, fara a afecta structura de rezistenta a
+imobilului si integritatea terasei sau acoperisului. Colaboreaza cu Prestatorul pentru asigurarea integritatii retelei de pe imobil si din
+interiorul acestuia. CLIENTUL va achita contravaloarea eventualelor materiale si subansambluri distruse sau disparute, dovedite a fi din
+vina sa, precum si a manoperei aferente pentru refacerea retelei. Permite reprezentantilor si angajatilor Prestatorului, pe baza legitimatiei de
+serviciu, accesul, in conditiile legii, atat la reteaua exterioara cat si la cea interioara, in si pe imobil si in locuinta sa, pentru a se putea realiza
+montarea si racordarea circuitului de comunicatii electronice prin cablu, verificarea, intretinerea, remedierea defectiunilor sesizate si
+modernizarea retelei de comunicatii electronice prin cablu; in cazul in care Prestatorul depisteaza o defectiune la circuitul de comunicatii
+electronice prin cablu sau la echipamentele conectate la circuilul de comunicatii electronice prin cablu, care afecteaza si alti clienti prin
+introducerea de perturbatii in retea, Prestatorul va atentiona in scris sau telefonic Beneficiarul asupra operatiunilor ce trebuie executate de
+catre Beneficiar si/sau FURNIZOR. Daca CLIENTUL nu da curs solicitarilor FURNIZORULUI si defectiunea persista si dupa 24 de ore de
+la atentionarea Beneficiarului, atunci FURNIZORUL are dreptul sa procedeze la deconectarea CLIENTULUI pana la remedierea defectiunii.
+CLIENTUL se obliga sa nu permita accesul la instalatie sau interventia pe retea a tertelor persoane, altele decat reprezentantii autorizati ai
+FURNIZORULUI, care este singurul indreptatit sa execute lucrari de instalare, verificare, modernizare si intretinere si reparatii. De
+asemenea, CLIENTUL se obliga sa efectueze toate reparatiile necesare, datorate modificarilor aduse asupra spatiului in care se instaleaza
+circuitul de comunicatii electronice prin cablu, modificari cauzat de instalarea serviciului solicitat (gaurirea peretilor, tocariei de la usi si
+geamuri). Utilizarea circuitului de comunicatii electronice numai in conformitate cu prevederile acestui contract, nemodificand configuratia
+si componentele instalatiei. CLIENTUL isi da acordul ca datele sale cu caracter personal sa fie folosite de FURINIZOR in conditiile legii,
+pentru urmatoarele scopuri: a) evidenta persoanelor fizice beneficiare ale serviciilor de comunicatii electronice; b) evidente statistice; c)
+prelucrarea pentru facturare/ comunicarea catre un imputernicit al operatorului pentru facturare; d) pentru diverse activitati de marketing
+privitoare la serviciile furnizate fara a leza in nici un fel interesele CLIENTULUI. Sa anunte imediat la dispeceratul FURNIZORULUI orice
+defectiune in sistem, deteriorarea instalatiei, precum si situatiile in care se constata furtul de semnal. Sa anunte FURNIZORULUI orice
+schimbare (precum schimbarea domiciliului, inchirierea sau vanzarea) referitoare la locatia in care se afla circuitul de comunicatii
+electronice. Sa nu foloseasca reteaua si circuitul construite de FURNIZOR in alte scopuri decat cele prevazute in prezentul contract.
+CLIENTUL nu are drept de redistribuire a serviciilor ce fac obiectul prezentului contract. CLIENTUL nu are dreptul de a se bransa singur,
+acest drept apartinand in exclusivitate personalului autorizat de FURNIZOR. Interventiile neautorizate la reteaua de comunicatii electronice
+incluzand, dar nu limitativ, furtul de semnal, redistribuirea de semnal, deteriorarea voita a instalatiei sau a componentelor sale, distrugerea
+echipamentelor sau a retelei, orice actiune a CLIENTULUI care duce la o scadere a calitatii sau la deranjarea altui CLIENT, conectarea
+frauduloasa la reteaua FURNIZORULUI si / sau receptionarea unor servicii necontractate se sanctioneaza cu deconectarea CLIENTULUI,
+acesta nefiind scutit sa raspunda material, contraventional sau penal, dupa caz. Oricare fapta dintre cele mentionate anterior duce la rezilierea
+contractului si plata unor despagubiri cu titlu de clauza penala echivalentul cu valoarea tarifului lunar pentru pachetul ales de Client pentru o
+perioada de 36 luni, imediat dupa data constatarii faptei. CLIENTUL va achita si contravaloarea lucrarilor de remediere, stabilite prin deviz
+intocmit de FURNIZOR.
+                </p>
+                <p style="font-weight:bold;">Art. 7 Colaborarea Prestator-Beneficiar</p>
+                <p>
+                    Beneficiarul este obligat sa colaboreze cu Prestatorul pentru asigurarea accesului la serviciile si server-ele acestuia si sa informeze
+Prestatorul despre orice actiune de care are cunostinta si care ar putea reprezenta un atentat la acestea. Beneficiarul este obligat sa permita
+reprezentatilor Prestatorului pentru a verifica respectarea de catre Beneficiar a obligatiilor contractuale; in cazul in care Beneficiarul nu
+permite accesul la locatie se considera ca acesta recunoaste incalcarea conditiilor contractuale si prestatorul va intrerupe furnizarea
+serviciului si eventual va notifica partile prejudiciate la cererea autoritatilor care au competente legale in domeniu.
+                </p>
+                <p style="font-weight:bold;">Art. 8 SUSPENDAREA EXECUTARII CONTRACTULUI</p>
+                <p>CLIENTUL poate solicita suspendarea abonamentului, pe o perioada de 1 luna sau 2 luni, numai daca are platite la zi toate tarifele
+corespunzatoare produselor contractate, pe baza unei cereri scrise depusa la sediul PRESTATORULUI cu cel putin 15 zile inainte de data
+scadenta a abonamentului, in care se va preciza si data reconectarii. Reconectarea se poate solicita in scris si in interiorul perioadei de
+suspendare solicitate. Suspendarea va fi realizata in maxim 48 de ore de la data inregistrarii cererii sau in termenul convenit de parti,
+mentionat pe cerere. Reconectarea, la revenirea din suspendare, se va face in maxim 48 de ore de la data la care se solicita efectuarea
+reconectarii sau in termenul convenit de parti. CLIENTUL se obliga sa pastreze toate materialele pe perioada suspendarii sau sa returneze
+echipamentele primite in folosinta odata cu depunerea cererii scrise de suspendare</p>
+                <p style="font-weight:bold;">Art. 9 RECONECTAREA</p>
+                <p>
+                    In cazul in care, dupa ce a fost deconectat din cauza neplatii pretului stabilit in conditiile prezentului contract, CLIENTUL solicita
+FURNIZORULUI , reconectarea, FURNIZORUL va efectua aceasta operatiune la cererea CLIENTULUI, dupa plata tututor sumelor
+restante si a tarifului de reconectare. FURNIZORUL va proceda la reconectarea CLIENTULUI in maximum 48 de ore de la efectuarea
+acestei plati sau in termenul convenit de parti. In cazul in care, dupa ce a fost deconectat din cauza furtului de semnal, redistribuirii de
+semnal, deteriorarii voite a instalatiei sau a componentelor sale, interventiilor neautorizate la reteaua de comunicatii electronice, conectarii
+frauduloase la serviciile FURNIZORULUI, CLIENTUL solicita FURNIZORULUI reconectarea, FURNIZORUL va efectua aceasta
+operatiune numai la cererea scrisa a CLIENTULUI, dupa plata eventualelor sume restante, si a tarifului de reconectare din oferta
+Furnizorului, majorat cu 1000%.
+                </p>
+                <p style="font-weight:bold;">Art. 10 MODIFICAREA CONTRACTULUI</p>
+                <p>
+                    Valoarea tarifelor va putea fi modificata in functie de: evolutia ulterioara a costului de realizare a activitatilor care compun obiectul
+Contractului (inclusiv, dar nu limitativ, modificarile privind plata drepturilor de autor si a drepturilor conexe, costul licentelor cle
+comunicatii electronice, taxe sau impozite suplimentare asupra exploatarii retelei de comunicatii electronice prin cablu precum si asupra
+furnizarii serviciilor ce fac obiectul prezentului contract), modificarea structurii si caracteristicilor serviciilor FURNIZORULUI. Noile tarife
+se comunica CLIENTULUI prin afisare la centrele de relatii cu clientii si notificare in scris si sms in mod individual, fiecare utilizator final,
+cu cel putin 30 de zile inainte de operarea modificarii. CLIENTUL va putea denunta unilateral contractul cu un preaviz de 15 zile, comunicat
+in scris sau telefonic (dupa identificarea corecta a CLIENTULUI) FURNIZORULUI, in cazul in care nu este de acord cu modificarile
+propuse, fara plata niciunei despagubiri. CLIENTII care achita tarifele lunare anticipat nu vor fi afectati de eventuale majorari ale acestuia
+pentru perioada platita in avans. CLIENTUL poate solicita schimbarea serviciului, suspendarea sau rezilierea contractului personal sau prin
+reprezentant autorizat, in conditiile legii, in centrele de relatii cu clientii sau telefonic (dupa identificarea corecta a CLIENTULUI), cu
+conditia achitarii la zi a datoriilor scadente catre FURNIZOR. Modificarea contractului in urma unor asemenea solicitari se realizeaza prin
+initierea / inregistrarea / semnarea (dupa caz) si finalizarea unui ordin de lucru. Deconectarile sau trecerile la un nivel inferior de servicii, la
+cererea CLIENTULUI, vor fi efectuate in maxim 48 de ore de la data inregistrarii cererii sau in termenul convenit de parti, mentionat pe
+cerere, iar abonamentul in luna respectiva va fi calculat pentru zilele efective de utilizare a serviciului. In cazul in care CLIENTUL solicita
+rezilierea contractului sau renuntarea la unul sau mai multe servicii si a achitat abonamentul in avans, FURNIZORUL se obliga sa restituie
+pe loc suma achitata in avans, calculata pentru perioada de neutilizare a serviciului. CLIENTUL poate solicita introducerea de servicii
+suplimentare numai daca sunt achitate datoriile scadente. Valoarea serviciilor suplimentare in luna introducerii acestora va fi calculata pentru
+zilele efective de utilizare a acestora, iar diferentele rezultate din schimbarea serviciului vor fi incluse in factura lunii urmatoare.
+FURNIZORUL isi rezerva dreptul de a modifica structura si caracteristicile serviciilor in functie de posibilitatile proprii de dezvoltare, de
+evolutia pietei, de conditiile tehnice impuse de reglementarile in vigoare, de sondajele de audienta efectuate de FURNIZOR sau de catre alte
+institutii specializate, precum si in functie de alti factori relevanti. Modificarea structurii si caracteristicilor serviciilor va fi adusa la
+cunostinta CLIENTULUI prin afisare la centrele de relatii cu clientii.
+                </p>
+                <p style="font-weight:bold;">Art.11 TRANSMITEREA CONTRACTULUI</p>
+                <p>
+                    FURNIZORUL va putea transmite prezentul contract in favoarea unei terte persoane, fie in cadrul unei transcrieri individuale, fie in cadrul
+unei transmisiuni universale sau cu titlu universal, cu preluarea de catre terti a garantiilor si a raspunderilor CLIENTULUI constituite prin
+Contract. De asemenea, CLIENTUL va putea transmite prezentul contract in favoarea unui nou titular al spatiului.
+                </p>
+                <p style="font-weight:bold;">Art. 12 CLAUZE SPECIALE</p>
+                <p>a). Forta majora, dovedita cu acte eliberate de organele in drept, apara de raspuridere partea care o invoca. Dezastrele naturale, razboaiele sau
+cauze de aceasta natura nu pot duce la acordarea de despagubiri.
+b).Fiecare parte contractanta raspunde pentru neindeplinirea culpabila a obligatiilor sale, in conditiile dreptului comun si ale prezentului
+contract. Litigiile de orice fel, izvorate din interpretarea, neexecutarea sau executarea necorespunzatoare a prezentului contract vor fi
+solutionate pe cale amiabila. Daca o astfel de rezolvare nu este posibila, litigiile vor fi solutionate conform legislatiei in vigoare, de catre
+organele in drept. Instanta competenta este instanta de la locul de furnizare a serviciilor.
+c). Serviciile oferite sunt de tip "best effort", caracteristicile tehnice si parametrii de calitate din descrierile acestor Servicii la art. 1 fiind
+masurati in conditii ideale. Caracteristicile acestor Servicii pot diferi de la caz la caz, indeosebi in functie de gradul de incarcare a
+retelei/starea tehnica a infrastructurii fizice de acces la retea si in functie de conditiile meteorologice. Daca nu se prevede altfel in Contract,
+neindeplinirea parametrilor de calitate sau a caracteristicilor comunicate pentru Servicii nu atrage plata niciunei penalitati de catre Furnizor
+sau acordarea niciunei reduceri la Abonament. Prin semnarea prezentului, Clientul accepta furnizarea Pachetului de Servicii in aceste
+condiţii.
+d). Clientul a primit un exemplar si a luat la cunostinta regulile din Politica de utilizare a serviciilor Internet in reteaua Furnizorului.
+Anexele semnate fac parte integranta a prezentului contract.
+Eu, Clientul, declar ca am fost informat in detaliu inainte de incheierea contractului despre prevederi precum planul tarifar ales prin contract,
+contravaloarea acestuia pe perioada minima, durata Perioadei minime, conditiile suspendarii serviciilor si ale incetarii contractului, conditiile
+de obtinere si utilizare a serviciilor, cuantumul justei despagubiri pentru incetare prematura. Am citit si sunt de acord cu conditiile
+contractului.</p>
+                <p style="font-weight:bold;font-size:large;">
+                    Orice problema in functionarea serviciului va fi anuntata la Departamentul Tehnic.
+                    <br/>
+                    Telefon: 0264910
+                </p>
+                <div class="container">
+                    <div class="row" style="width:100%;">
+                        <div class="col-xs-6" style="font-weight:bold;text-align:center;">PRESTATOR/FURNIZOR,</div>
+                        <div class="col-xs-6" style="font-weight:bold;text-align:center;">BENEFICIAR/CLIENT,</div>
+                    </div>
+        	    </div>
+            </div>
         </div>
     </template>
 </data>
