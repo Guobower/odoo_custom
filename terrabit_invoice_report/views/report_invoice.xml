@@ -407,7 +407,11 @@
                                 <div>1 <span t-field="currency.name"/> =  <t t-esc="'{0:.4f}'.format(round(curs,4))"/> <span t-field="o.currency_id.symbol"/> </div>
                             </t>
                         </t>
-
+                        <t t-if="o.import_range">
+                            <div>
+                                <span>Perioada de facturare:</span><span t-field="o.import_range"/>
+                            </div>
+                        </t>
 	                    <small t-if="o.type == 'out_invoice' or o.type == 'out_refund'">
 	                        <div style="margin-bottom:5px;margin-top:5px;">Sistem propriu de imprimare și numerotare conform Legii 571/2003 privind Codul Fiscal cu modificările și completările ulterioare și OMFP 2226/2006.
 	                        </div>
@@ -842,6 +846,11 @@
 							<div style="margin-left:-10px;">Plata acestei facturi se poate face la orice sucursala BRD sau Banca Transilvania din vecinatatea dumneavoastra specificand codul de client    "<span t-field="o.commercial_partner_id.ref"/>" si numarul facturii "<span t-field="o.number"/>"</div>
 						</small>
                         -->
+                        <t t-if="o.import_range">
+                            <div>
+                                <span>Invoiced time span:</span><span t-field="o.import_range"/>
+                            </div>
+                        </t>
 	                    <div t-if="o.commercial_partner_id.info_for_invoice">
 	                        <span t-field="o.commercial_partner_id.info_for_invoice"/>
 	                    </div>
