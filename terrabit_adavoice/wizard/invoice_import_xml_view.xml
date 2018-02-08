@@ -20,8 +20,8 @@
 					</group>
 					<group>
 						<field name="date_invoice"/>
-						<field name="account_id"/>
-						<field name="currency_id"/>
+						<field name="account_id" string="Line(product) account"/>
+						<field name="currency_id" string="Source currency"/>
 					</group>
 					<footer>
 						<button name="do_import" string="_Apply" type="object" class="oe_highlight" />

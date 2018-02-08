@@ -14,6 +14,7 @@ import requests
 from urllib2 import Request, urlopen
 from lxml import etree
 import datetime
+import datetime
 
 
 class invoice_import_xml(models.TransientModel):
@@ -77,9 +78,21 @@ class invoice_import_xml(models.TransientModel):
                     if not customer:
                         # customer = self.env['res.partner'].create({'ref': user_id, 'name': user_id, 'customer': True})
                         continue
+                    # imp_range = self.from_date+' - '+self.to_date
+                    f_date = fields.Datetime.from_string(self.from_date)
+                    t_date = fields.Datetime.from_string(self.to_date)
+                    imp_range = f_date.strftime('%d/%m/%Y')+' - '+t_date.strftime('%d/%m/%Y')
+                    if customer:
+                        invoice_account = customer.property_account_receivable_id
+                        invoice_currency = customer.property_product_pricelist.currency_id
+                    else:
+                        continue
                     values = {'name': number,
                               'partner_id': customer.id,
                               'date_invoice': self.date_invoice,
+                              'import_range': imp_range,
+                              'account_id': invoice_account.id,
+                              'currency_id': invoice_currency.id,
                               'invoice_line_ids': []}
 
                     dom_products = dom_invoice.findall('Product')
@@ -93,7 +106,8 @@ class invoice_import_xml(models.TransientModel):
                         price = dom_product.find('Price').text
 
                         from_currency = self.currency_id.with_context(date=self.date_invoice)
-                        price_unit = from_currency.compute(float(price), self.env.user.company_id.currency_id)
+                        price_unit = from_currency.compute(float(price), invoice_currency)
+
 
                         account = self.account_id
 
@@ -115,3 +129,6 @@ class invoice_import_xml(models.TransientModel):
             action['domain'] = "[('id','in', [" + ','.join(map(str, invoices.ids)) + "])]"
             return action
 
+class account_invoice(models.Model):
+    _inherit = "account.invoice"
+    import_range = fields.Char(default='', string="Import range", required=False)

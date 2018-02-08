@@ -26,3 +26,6 @@ class account_invoice(models.Model):
     def get_currencies(self):
         currencies = self.env['res.currency'].search([('active', '=', True)])
         return currencies
+    def get_banks(self):
+        accounts = self.env['account.journal'].search([('display_on_footer', '=', True),('type','=','bank')])
+        return accounts

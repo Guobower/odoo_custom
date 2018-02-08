@@ -54,20 +54,54 @@
                                 </div>
 
                                 <small>
-                                    <div t-foreach="res_company.partner_id.bank_ids" t-as="bank">
-
+                                    <t t-set="banks" t-value="o.get_banks()"/>
+                                    <div t-foreach="banks" t-as="bank">
+                                        <span t-if="bank.bank_id">
+                                            <strong>Banca:</strong>
+                                            <span t-field="bank.bank_id.name"/>
+                                        </span>
+                                        <br />
+                                        <span t-if="bank.name">
+                                            <strong>Cont:</strong>
+                                            <span t-field="bank.name"/>
+                                        </span>
+                                    </div>
+                                    <!--<div t-foreach="res_company.partner_id.bank_ids" t-as="bank">
+                                        <t t-if="bank.">
                                             <span t-if="bank.bank_name">
-                                                <strong>Banca:</strong>                                                <span t-field="bank.bank_name"/>
+                                                <strong>Banca:</strong>
+                                                <span t-field="bank.bank_name"/>
                                             </span>
                                             <br />
                                             <span t-if="bank.acc_number">
                                                 <strong>Cont:</strong>
                                                 <span t-field="bank.acc_number"/>
                                             </span>
-
-                                    </div>
+                                        </t>
+                                    </div>-->
                                 </small>
-
+                                <div t-if="res_company.partner_id.vat">
+                                    <strong>CIF:</strong>
+                                    <span t-field="res_company.partner_id.vat"/>
+                                </div>
+                                <div t-if="res_company.partner_id.nrc">
+                                    <strong>Nr. Reg. Com:</strong>
+                                    <span t-field="res_company.partner_id.nrc"/>
+                                </div>
+                                <div t-if="res_company.share_capital">
+                                    <strong>Capital social:</strong>
+                                    <span t-field="res_company.share_capital"/>
+                                </div>
+                                <div t-if="'vat_on_payment' in res_company._fields">
+                                    <div t-if="res_company.vat_on_payment">
+                                        <span>Vat on payment</span>
+                                    </div>
+                                </div>
+                                <div>
+                                    <span t-foreach="o.tax_line_ids" t-as="t">
+                                        <span t-field="t.name"/>
+                                    </span>
+                                </div>
                             </td>
                             <td width="30%" height="100%" style="vertical-align:middle;text-align:center;">
                                 <!--<img t-if="company.logo" t-att-src="'data:image/png;base64,%s' % company.logo" style="max-width: 200px;;vertical-align:middle;margin-left:auto;margin-right:auto;"/>-->
@@ -110,9 +144,14 @@
 									<span t-field="o.commercial_partner_id.ref"/><br/>
 									<!--<img t-att-src="'/report/barcode/?type=%s&amp;value=%s&amp;width=%s&amp;height=%s&amp;humanreadable=0' % ('Code128', o.commercial_partner_id.ref, 1000, 200)" style="margin-top: 0px; width:250px; height:50px"/>-->
 								</div>
+                                <div t-if="o.agreement_id">
+									<strong>Nr. contract: </strong>
+									<span t-field="o.agreement_id.code"/><br/>
+								</div>
+
                             </td>
                         </tr>
-                        <tr>
+                        <!--<tr>
                             <td style="border-top: initial;">
                                 <div t-if="res_company.partner_id.vat">
                                     <strong>CIF:</strong>
@@ -141,7 +180,7 @@
                             <td style="border-top: initial;">
 
                             </td>
-                        </tr>
+                        </tr>-->
                     </table>
 
 
@@ -458,10 +497,23 @@
                                 </div>
 
                                 <small>
-                                    <div t-foreach="res_company.partner_id.bank_ids" t-as="bank">
+                                    <t t-set="banks" t-value="o.get_banks()"/>
+                                    <div t-foreach="banks" t-as="bank">
+                                        <span t-if="bank.bank_id">
+                                            <strong>Bank:</strong>
+                                            <span t-field="bank.bank_id.name"/>
+                                        </span>
+                                        <br />
+                                        <span t-if="bank.name">
+                                            <strong>Account:</strong>
+                                            <span t-field="bank.name"/>
+                                        </span>
+                                    </div>
+                                    <!--<div t-foreach="res_company.partner_id.bank_ids" t-as="bank">
 
                                             <span t-if="bank.bank_name">
-                                                <strong>Bank:</strong>                                                <span t-field="bank.bank_name"/>
+                                                <strong>Bank:</strong>
+                                                <span t-field="bank.bank_name"/>
                                             </span>
                                             <br />
                                             <span t-if="bank.acc_number">
@@ -469,7 +521,7 @@
                                                 <span t-field="bank.acc_number"/>
                                             </span>
 
-                                    </div>
+                                    </div>-->
                                 </small>
 
                             </td>
@@ -513,6 +565,10 @@
 									<strong>Client code: </strong>
 									<span t-field="o.commercial_partner_id.ref"/><br/>
 									<!--<img t-att-src="'/report/barcode/?type=%s&amp;value=%s&amp;width=%s&amp;height=%s&amp;humanreadable=0' % ('Code128', o.commercial_partner_id.ref, 1000, 200)" style="margin-top: 0px; width:250px; height:50px"/>-->
+								</div>
+                                <div t-if="o.agreement_id">
+									<strong>Agreement no.: </strong>
+									<span t-field="o.agreement_id.code"/><br/>
 								</div>
                             </td>
                         </tr>
