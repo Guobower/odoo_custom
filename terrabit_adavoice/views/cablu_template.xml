@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <report
+                id="report_terrabit_invoice_cablu"
+                string="Retransmitere cablu"
+                model="invoice.cablu"
+                report_type="qweb-pdf"
+                file="terrabit_adavoice.terrabit_invoice_cablu"
+                name="terrabit_adavoice.terrabit_invoice_cablu"
+        />
+
+        <template id="terrabit_invoice_cablu">
+            <t t-call="report.html_container">
+                <t t-foreach="docs" t-as="o">
+                    <div class="page">
+
+                        <div align="center">
+                            <strong>
+                                <span style="font-size:14.0pt">RAPORT LUNAR</span>
+                            </strong>
+                        </div>
+
+                        <div align="center">
+                            <strong>
+                                <span style="font-size:14.0pt">RETRANSMITERE PRIN CABLU</span>
+                            </strong>
+                        </div>
+
+                        <div>
+
+                        </div>
+
+                        <div>
+                            <strong>
+                                <span>Nr. înregistrare</span>
+                            </strong>
+                            <span>
+                                _____
+                            </span>
+                        </div>
+
+                        <div>
+                            <strong>
+                                <span>Beneficiar:</span>
+                            </strong>
+                            <strong>Organism de colectare drepturi de autor
+                            </strong>
+                        </div>
+
+                        <div><strong>Operator prin cablu</strong>: S.C. ADA VOICE SRL 
+                        </div>
+
+                        <div><strong>Sediu social</strong>:
+                            Localitatea FLORESTI, str.STEJARULUI nr.27 ap. 36 Județ CLUJ
+                        </div>
+
+                        <div>
+                            <strong>Cod Unic de Inregistrare</strong>
+                              RO32020103
+                        </div>
+
+                        <div><strong>Nr. inreg. în Reg. Com</strong>.
+                            J12/2261/2013
+                        </div>
+
+                        <div><strong>Reprezentant</strong>: (nume și prenume) ARSENIE_CIPRIAN 
+                        </div>
+
+                        <div>
+                            <strong>Calitatea reprezentantului</strong> ADMINISTRATOR
+                        </div>
+
+                        <div><strong>Date de contact:</strong>Tel. 0755338246  E-mail ciprian@rovoice.com
+                        </div>
+
+
+                        <div><strong>Perioada de raportare</strong>: Luna <span t-esc="o.from_date[5:7]"/> An <span t-esc="o.from_date[:4]"/>
+                        </div>
+
+
+                        <table class="table table-condensed  table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Baza de calcul (RON)<br/>(1)
+                                    </th>
+                                    <th>Număr de abonați<br/>(2)
+                                    </th>
+                                    <th>Valoare unitară abonament/e (Ron)<br/>(3)
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="text-right">
+                                        <span t-field="o.baza"/>
+                                    </td>
+                                    <td class="text-right">
+                                        <span t-field="o.abonati"/>
+                                    </td>
+                                    <td class="text-right">
+                                        <span t-field="o.pret"/>
+                                    </td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+
+
+                        <div>
+                            <strong>Programe retransmise prin cablu</strong>
+                        </div>
+
+
+                        <table class="table table-condensed  table-bordered">
+                            <tbody>
+                                <tr>
+                                    <td style="width:27.0pt;">
+                                        <span>Nr. crt.</span>
+                                    </td>
+                                    <td style="width:90.0pt;">
+                                        <span>Program</span>
+                                    </td>
+                                    <td width="84">
+                                        <span>Ţara de origine
+                                        </span>
+                                    </td>
+                                    <td style="width:27.0pt;">
+                                        <span>Nr. crt.</span>
+                                    </td>
+                                    <td style="width:90.0pt;">
+                                        <span>Program</span>
+                                    </td>
+                                    <td width="84">
+                                        <span>Ţara de origine
+                                        </span>
+                                    </td>
+                                    <td style="width:27.0pt;">
+                                        <span>Nr. crt.</span>
+                                    </td>
+                                    <td style="width:90.0pt;">
+                                        <span>Program</span>
+                                    </td>
+                                    <td width="84">
+                                        <span>Ţara de origine
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr t-foreach="range(1,11)" t-as="nr" style="line-height:1">
+                                    <td>
+                                        <span t-esc="nr"/>
+                                    </td>
+                                    <td>
+
+                                    </td>
+                                    <td>
+
+                                    </td>
+                                    <td>
+                                        <t t-set="nr_crt" t-value="nr + 10"/>
+                                        <span t-esc="nr_crt"/>
+                                    </td>
+                                    <td>
+
+                                    </td>
+                                    <td>
+
+                                    </td>
+                                    <td>
+                                        <t t-set="nr_crt" t-value="nr + 20"/>
+                                        <span t-esc="nr_crt"/>
+                                    </td>
+                                    <td>
+
+                                    </td>
+                                    <td>
+
+                                    </td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+
+
+                        <div>
+                            <span>
+                                Subsemnatul, ARSENIE CIPRIAN
+                                având funcția de  ADMINISTRATOR , în calitate de
+                                reprezentant legal al S.C. ADA VOICE SRL , cunoscând
+                                dispozițiile art. 322 Cod Penal privitoare la falsul în declarații, declar pe
+                                proprie răspundere că datele cuprinse în prezentul raport sunt corecte și
+                                complete pentru perioada de raportare.CONFORM TABELULUI DIN ATASAMENT
+                            </span>
+                        </div>
+
+                        <div></div>
+
+                        <div>DATA <span t-esc="context_timestamp(datetime.datetime.now()).strftime('%Y-%m-%d')"/>
+                            SEMNATURA/ȘTAMPILA
+                        </div>
+
+                    </div>
+
+                </t>
+            </t>
+        </template>
+
+    </data>
+
+</openerp>

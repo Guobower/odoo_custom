@@ -28,9 +28,9 @@
                                 <t t-set="ref_client" t-value="'/'"/>
                                 <t t-set="barcode" t-value="invoice_number"/>
                             </t>
-							<img t-if="company.logo" t-att-src="'data:image/png;base64,%s' % company.logo" style="max-height: 42px;vertical-align:middle;float:left;"/>
-							<img t-att-src="'/report/barcode/?type=%s&amp;value=%s&amp;width=%s&amp;height=%s&amp;humanreadable=1' % ('Code128', barcode, 1000, 200)" style="margin-top: 0px; width:250px; height:43px;float:right;"/>
-                            <!--<img t-if="o.company_id.logo" t-att-src="'data:image/png;base64,%s' % company.logo" style="max-height: 45px;"/>-->
+							<img t-if="company.logo" t-att-src="'data:image/png;base64,%s' % company.logo" style="max-height: 80px;vertical-align:middle;float:left;"/>
+							<img t-att-src="'/report/barcode/?type=%s&amp;value=%s&amp;width=%s&amp;height=%s&amp;humanreadable=1' % ('Code128', barcode, 1000, 200)" style="margin-top: 0px; width:340px; height:60px;float:right;"/>
+                            <!--<img t-if="o.company_id.logo" t-att-src="'data:image/png;base64,%s' % company.logo" style="max-height: 80px;"/>-->
                         </div>
                         <div class="col-xs-9 text-right" style="margin-top:20px;" t-field="company.rml_header1"/>
                     </div>

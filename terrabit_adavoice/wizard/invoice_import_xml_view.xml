@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data>
+		<record id="view_terrabit_invoice_import_xml_form" model="ir.ui.view">
+			<field name="name">Import</field>
+			<field name="model">invoice.import.xml</field>
+			<field name="arch" type="xml">
+				<form string="Import">
+					<group>
+						<group>
+							<field name="server"/>
+							<field name="from_date"/>
+							<field name="to_date"/>
+
+						</group>
+						<group>
+							<field name="user"/>
+							<field name="lang"/>
+						</group>
+					</group>
+					<group>
+						<field name="date_invoice"/>
+						<field name="account_id"/>
+						<field name="currency_id"/>
+					</group>
+					<footer>
+						<button name="do_import" string="_Apply" type="object" class="oe_highlight" />
+						or
+						<button string="Cancel" class="oe_link" special="cancel" />
+					</footer>
+				</form>
+			</field>
+		</record>
+
+		<act_window id="action_terrabit_invoice_import_xml" name="Import from XML"
+			res_model="invoice.import.xml"
+			view_mode="form" multi="True" target="new" key2="client_action_multi" />
+
+        <menuitem  id="menu_terrabit_invoice_import_xml" action="action_terrabit_invoice_import_xml"
+                  parent="account.menu_finance_receivables"
+                  sequence="500"/>
+	</data>
+</openerp>

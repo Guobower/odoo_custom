@@ -1,0 +1,6142 @@
+<Invoices from="2017-01-01" till="2018-01-05">
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1705011">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>176</Quantity>
+      <Price>1.7600</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1705012">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0183</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>12</Quantity>
+      <Price>0.6110</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0273</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>31</Quantity>
+      <Price>0.8563</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>20</Quantity>
+      <Price>0.5673</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0130</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1705013">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1148</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0515</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1670</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0493</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>13</Quantity>
+      <Price>0.4863</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0800</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0933</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0603</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0573</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1705014">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>11</Quantity>
+      <Price>0.5938</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Enigma</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1433</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>7</Quantity>
+      <Price>0.2150</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>10</Quantity>
+      <Price>0.4047</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1705015">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1204</Quantity>
+      <Price>25.0670</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1705016">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1467</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1987</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8</Quantity>
+      <Price>0.3617</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0357</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1705017">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0690</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0600</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0203</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1705018">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8</Quantity>
+      <Price>0.8393</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="15" agreementnumber="0000000015" clientid="" number="INV1705019">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0100</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV17050110">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0477</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>19</Quantity>
+      <Price>2.2717</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>28</Quantity>
+      <Price>4.2530</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1240</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17050111">
+    <Product>
+      <Name>Belgium Mobile - Proximus</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0374</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Mobistar</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0304</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France Mobile - Sfr</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0019</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0421</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0231</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Free</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0481</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0532</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0397</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0014</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Virgin</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0024</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Ireland Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0917</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Bulgaria Proper</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0071</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0062</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1177</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>1</Quantity>
+      <Price>0.2323</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>1</Quantity>
+      <Price>0.5481</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1157</Quantity>
+      <Price>4.3106</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>417</Quantity>
+      <Price>1.7913</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Enigma</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0192</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>5613</Quantity>
+      <Price>95.7442</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1870</Quantity>
+      <Price>32.9042</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>6865</Quantity>
+      <Price>107.2586</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3196</Quantity>
+      <Price>46.8592</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3128</Quantity>
+      <Price>51.3818</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>77</Quantity>
+      <Price>1.4562</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>283</Quantity>
+      <Price>5.4948</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>217</Quantity>
+      <Price>4.8998</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>41</Quantity>
+      <Price>0.8908</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>174</Quantity>
+      <Price>2.8934</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>89</Quantity>
+      <Price>1.2830</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>75</Quantity>
+      <Price>1.1780</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>115</Quantity>
+      <Price>2.1094</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>99</Quantity>
+      <Price>1.9558</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>36</Quantity>
+      <Price>0.5976</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>106</Quantity>
+      <Price>1.5044</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Mobilkom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0704</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - One</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0139</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0070</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0069</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0122</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0316</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0513</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0101</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>5</Quantity>
+      <Price>0.0412</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0011</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0274</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Proper</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1087</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Tmobile</Name>
+      <Quantity>9</Quantity>
+      <Price>0.3364</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0659</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0190</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17050112">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>38</Quantity>
+      <Price>1.3270</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0205</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>48</Quantity>
+      <Price>1.5827</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>20</Quantity>
+      <Price>0.8657</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>40</Quantity>
+      <Price>1.3280</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1743</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>12</Quantity>
+      <Price>0.4233</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0493</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17050113">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>14</Quantity>
+      <Price>0.2398</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1064</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-06-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1706011">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>168</Quantity>
+      <Price>1.6800</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1706012">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0102</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1423</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>10</Quantity>
+      <Price>0.4877</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0540</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1706013">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>7</Quantity>
+      <Price>0.0940</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0210</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>5</Quantity>
+      <Price>0.4003</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>27</Quantity>
+      <Price>0.6027</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>18</Quantity>
+      <Price>0.4383</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>10</Quantity>
+      <Price>0.3580</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0837</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1706014">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0405</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0337</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0663</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>18</Quantity>
+      <Price>0.9330</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0223</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1706015">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1120</Quantity>
+      <Price>23.7573</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1706016">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.5573</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1706017">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0575</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1423</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1497</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0680</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0790</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0553</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1706018">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0333</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="13" agreementnumber="0000000013" clientid="" number="INV1706019">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV17060110">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1457</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>39</Quantity>
+      <Price>7.6183</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>40</Quantity>
+      <Price>8.4907</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0573</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17060111">
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0217</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0019</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Ireland Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0015</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2968</Quantity>
+      <Price>10.7213</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>975</Quantity>
+      <Price>3.7471</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>13631</Quantity>
+      <Price>225.1694</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>4170</Quantity>
+      <Price>67.4052</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>17484</Quantity>
+      <Price>249.4514</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8280</Quantity>
+      <Price>111.4980</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>6962</Quantity>
+      <Price>113.1282</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>159</Quantity>
+      <Price>2.9782</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>571</Quantity>
+      <Price>12.9908</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>460</Quantity>
+      <Price>9.8330</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>97</Quantity>
+      <Price>1.8998</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>308</Quantity>
+      <Price>6.1802</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0074</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>232</Quantity>
+      <Price>3.2656</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>154</Quantity>
+      <Price>1.9152</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>232</Quantity>
+      <Price>3.5124</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>299</Quantity>
+      <Price>5.9692</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>83</Quantity>
+      <Price>1.5720</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>299</Quantity>
+      <Price>5.1982</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0244</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0058</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0013</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0184</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0282</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0396</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0055</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17060112">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>67</Quantity>
+      <Price>2.0678</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1270</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>52</Quantity>
+      <Price>2.1740</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>23</Quantity>
+      <Price>0.6757</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>38</Quantity>
+      <Price>1.3880</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1010</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>20</Quantity>
+      <Price>0.8813</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0303</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0777</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17060113">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>32</Quantity>
+      <Price>0.6004</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-07-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="2" agreementnumber="0000000002" clientid="" number="INV1707011">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1590</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1707012">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>159</Quantity>
+      <Price>1.5900</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1707013">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>5</Quantity>
+      <Price>0.0660</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0937</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0740</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1707014">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>9</Quantity>
+      <Price>0.1068</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0455</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>10</Quantity>
+      <Price>0.3123</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>6</Quantity>
+      <Price>0.2463</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>15</Quantity>
+      <Price>0.3043</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>10</Quantity>
+      <Price>0.2460</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1707015">
+    <Product>
+      <Name>Hungary Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0252</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0518</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0320</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Enigma</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0507</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>10</Quantity>
+      <Price>0.2757</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>10</Quantity>
+      <Price>0.7533</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>18</Quantity>
+      <Price>0.8137</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0600</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1707016">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1364</Quantity>
+      <Price>27.6617</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1707017">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1038</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>20</Quantity>
+      <Price>1.1823</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.2993</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1707018">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0195</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>8</Quantity>
+      <Price>0.8130</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0347</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1067</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0387</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1707019">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV17070110">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>22</Quantity>
+      <Price>5.2240</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>22</Quantity>
+      <Price>2.5197</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0920</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17070111">
+    <Product>
+      <Name>Netherlands Mobile - Kpn</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0454</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Netherlands Mobile - Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0024</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Proximus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0432</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Base</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1706</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Mobistar</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0438</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0011</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0043</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0747</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>6</Quantity>
+      <Price>0.0071</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1478</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Ireland Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0513</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Budapest</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0094</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1517</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>3</Quantity>
+      <Price>0.5574</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2278</Quantity>
+      <Price>8.8858</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1063</Quantity>
+      <Price>4.0240</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>14798</Quantity>
+      <Price>235.7966</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>4532</Quantity>
+      <Price>71.3646</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>18018</Quantity>
+      <Price>250.7118</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8159</Quantity>
+      <Price>110.4530</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>8043</Quantity>
+      <Price>124.5098</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>178</Quantity>
+      <Price>3.1726</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>651</Quantity>
+      <Price>11.5790</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>591</Quantity>
+      <Price>11.5708</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>131</Quantity>
+      <Price>1.7978</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>397</Quantity>
+      <Price>6.8372</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>239</Quantity>
+      <Price>3.7316</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>164</Quantity>
+      <Price>2.7612</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>270</Quantity>
+      <Price>5.5000</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>341</Quantity>
+      <Price>5.4768</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>66</Quantity>
+      <Price>0.9750</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>238</Quantity>
+      <Price>4.0290</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Tmobile</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0335</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0016</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0052</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0651</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0113</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0101</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0050</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0429</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0211</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0227</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0043</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0917</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0491</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Tmobile</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0034</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telia</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0015</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Hi3G</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0847</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0314</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - P4</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1630</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0037</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0108</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Plus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0006</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Proper</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0581</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Tmobile</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1840</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0196</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1463</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0018</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1073</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17070112">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>29</Quantity>
+      <Price>0.7735</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0605</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>69</Quantity>
+      <Price>2.4560</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>36</Quantity>
+      <Price>1.1910</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>33</Quantity>
+      <Price>1.0847</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>13</Quantity>
+      <Price>0.4640</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>20</Quantity>
+      <Price>0.8407</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0660</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0293</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17070113">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1038</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-08-01</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="2" agreementnumber="0000000002" clientid="" number="INV1708011">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0100</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1708012">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>189</Quantity>
+      <Price>1.8900</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1708013">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1803</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>16</Quantity>
+      <Price>0.3917</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>11</Quantity>
+      <Price>0.3000</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>42</Quantity>
+      <Price>1.0633</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>21</Quantity>
+      <Price>0.6767</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1250</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1357</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1708014">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>7</Quantity>
+      <Price>0.1192</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>12</Quantity>
+      <Price>0.3087</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1853</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>26</Quantity>
+      <Price>0.7670</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1770</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>5</Quantity>
+      <Price>0.2670</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0627</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0427</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1708015">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1342</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0807</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0687</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1597</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0790</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>12</Quantity>
+      <Price>0.4387</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0600</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1708016">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1114</Quantity>
+      <Price>22.4900</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1708017">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1760</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>7</Quantity>
+      <Price>0.5870</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>9</Quantity>
+      <Price>0.4717</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0407</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1247</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1708018">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0100</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0485</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0403</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0433</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.2327</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1263</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1377</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1708019">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>8</Quantity>
+      <Price>0.0857</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1677</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>14</Quantity>
+      <Price>0.2833</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="13" agreementnumber="0000000013" clientid="" number="INV17080110">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV17080111">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1060</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.2380</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.2260</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17080112">
+    <Product>
+      <Name>Netherlands Mobile - Telfort</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0226</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France Mobile - Sfr</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0750</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0573</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0695</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0019</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0016</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0323</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0446</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Free</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0239</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1839</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0022</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0024</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Bulgaria Mobile - Btc</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0354</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Proper</Name>
+      <Quantity>8</Quantity>
+      <Price>0.0084</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Budapest</Name>
+      <Quantity>9</Quantity>
+      <Price>0.0223</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Mobile - Pannon</Name>
+      <Quantity>17</Quantity>
+      <Price>0.2672</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Mobile - Tmobile</Name>
+      <Quantity>18</Quantity>
+      <Price>0.4083</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Mobile - Vodafone</Name>
+      <Quantity>19</Quantity>
+      <Price>0.4222</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0001</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2283</Quantity>
+      <Price>8.6871</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1017</Quantity>
+      <Price>4.1393</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0080</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>11637</Quantity>
+      <Price>185.5514</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3715</Quantity>
+      <Price>60.8168</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>14041</Quantity>
+      <Price>201.5168</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>6866</Quantity>
+      <Price>99.0254</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>6370</Quantity>
+      <Price>102.0074</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>186</Quantity>
+      <Price>3.7840</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>469</Quantity>
+      <Price>8.4960</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>577</Quantity>
+      <Price>14.4346</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>113</Quantity>
+      <Price>1.6516</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>343</Quantity>
+      <Price>6.1934</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>223</Quantity>
+      <Price>3.9082</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>178</Quantity>
+      <Price>2.3402</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>200</Quantity>
+      <Price>2.9950</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>293</Quantity>
+      <Price>5.1760</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>65</Quantity>
+      <Price>1.1636</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>198</Quantity>
+      <Price>2.9910</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Mobilkom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0974</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Tmobile</Name>
+      <Quantity>11</Quantity>
+      <Price>0.0437</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0006</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0379</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0077</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0050</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0192</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0271</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>6</Quantity>
+      <Price>0.0707</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0565</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0003</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0196</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0148</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0304</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0012</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0465</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0100</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0005</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0118</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - H3G</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0064</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0055</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0010</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0264</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0240</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0201</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0005</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0021</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0005</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0003</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0252</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0005</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0027</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Tmobile</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0179</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0144</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Plus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0458</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0207</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Tmobile</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0863</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Plus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0159</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Proper</Name>
+      <Quantity>414</Quantity>
+      <Price>1.4284</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Tmobile</Name>
+      <Quantity>16</Quantity>
+      <Price>0.6860</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>10</Quantity>
+      <Price>0.0659</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>5</Quantity>
+      <Price>0.0527</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0190</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0399</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Tmobile</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0040</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0046</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0117</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0021</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Tmobile</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0264</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - O2</Name>
+      <Quantity>8</Quantity>
+      <Price>0.2012</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0049</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0117</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - O2</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0629</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Frankfurt</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0144</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17080113">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>26</Quantity>
+      <Price>0.6848</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0897</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>90</Quantity>
+      <Price>3.2160</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>34</Quantity>
+      <Price>1.3110</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>52</Quantity>
+      <Price>2.1837</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>11</Quantity>
+      <Price>0.4630</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>24</Quantity>
+      <Price>1.5407</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0360</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0697</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17080114">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0292</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="28" agreementnumber="0000000023" clientid="" number="INV17080115">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>66</Quantity>
+      <Price>0.9902</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1703</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1000</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="31" agreementnumber="0000000026" clientid="" number="INV17080116">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0278</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0647</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-09-12</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="2" agreementnumber="0000000002" clientid="" number="INV1709011">
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0337</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1709012">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>178</Quantity>
+      <Price>1.7512</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1709013">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1709014">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>13</Quantity>
+      <Price>0.1688</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0298</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0519</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0950</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>13</Quantity>
+      <Price>0.3280</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1440</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0807</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1709015">
+    <Product>
+      <Name>Hungary Mobile - Tmobile</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0716</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0281</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>7</Quantity>
+      <Price>0.4228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1709016">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>128</Quantity>
+      <Price>2.6553</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1709017">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>11</Quantity>
+      <Price>1.5547</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>11</Quantity>
+      <Price>0.3240</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1800</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>4</Quantity>
+      <Price>0.2273</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1780</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1709018">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1850</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1257</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1709019">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0783</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0407</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="15" agreementnumber="0000000015" clientid="" number="INV17090110">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV17090111">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>7</Quantity>
+      <Price>0.3600</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.2520</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17090112">
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0975</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0177</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy Proper</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0198</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2140</Quantity>
+      <Price>8.4767</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>775</Quantity>
+      <Price>3.1776</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>10849</Quantity>
+      <Price>181.2338</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3328</Quantity>
+      <Price>54.6650</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>12812</Quantity>
+      <Price>189.9322</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>6289</Quantity>
+      <Price>84.1468</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>6991</Quantity>
+      <Price>109.0874</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>120</Quantity>
+      <Price>2.7736</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>579</Quantity>
+      <Price>9.9358</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>542</Quantity>
+      <Price>13.1792</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>87</Quantity>
+      <Price>1.5938</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>354</Quantity>
+      <Price>5.6710</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0284</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>228</Quantity>
+      <Price>4.4056</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>137</Quantity>
+      <Price>1.7772</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>275</Quantity>
+      <Price>4.5796</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>262</Quantity>
+      <Price>4.1134</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>74</Quantity>
+      <Price>1.5278</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>232</Quantity>
+      <Price>4.0080</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Mobilkom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0454</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0011</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0010</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0072</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0009</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0295</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0139</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0101</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0007</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0005</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0003</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - O2</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0089</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0137</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0050</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Denmark Mobile - Telenor</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0112</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Proper</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0221</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Eplus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0166</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0233</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Mobile - O2</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0417</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17090113">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>22</Quantity>
+      <Price>0.5692</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1903</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>61</Quantity>
+      <Price>2.2225</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>27</Quantity>
+      <Price>0.5970</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>42</Quantity>
+      <Price>1.6726</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>6</Quantity>
+      <Price>0.1880</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>7</Quantity>
+      <Price>0.4110</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17090114">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0157</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0240</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="31" agreementnumber="0000000026" clientid="" number="INV17090115">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>9</Quantity>
+      <Price>0.3935</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0600</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="33" agreementnumber="0000000028" clientid="" number="INV17090116">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0297</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0200</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-10-11</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1710011">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>199</Quantity>
+      <Price>0.5572</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1710012">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>4</Quantity>
+      <Price>0.4408</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1710013">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>12</Quantity>
+      <Price>0.0789</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0096</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0718</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8</Quantity>
+      <Price>0.4739</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1710014">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0250</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1265</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1588</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.4207</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.4613</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0361</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.3766</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1710015">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>81</Quantity>
+      <Price>1.9498</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1710016">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>7</Quantity>
+      <Price>0.5312</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1091</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8</Quantity>
+      <Price>0.5571</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1524</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>2</Quantity>
+      <Price>0.3678</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1710017">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1303</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1710018">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.2398</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0612</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="14" agreementnumber="0000000014" clientid="" number="INV1710019">
+    <Product>
+      <Name>Netherlands Mobile - Kpn</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0176</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0978</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Spain - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0117</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Portugal - Fixed OLO</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1197</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Bulgaria Mobile - Mobiltel</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0647</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Proper</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0383</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belarus Mobile - Mts</Name>
+      <Quantity>1</Quantity>
+      <Price>1.3804</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0460</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0843</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Germany Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0057</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Russia - Fixed Moscow</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0311</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV17100110">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>41</Quantity>
+      <Price>7.3059</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>48</Quantity>
+      <Price>9.3442</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17100111">
+    <Product>
+      <Name>Belgium Mobile - Proximus</Name>
+      <Quantity>5</Quantity>
+      <Price>0.0292</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Base</Name>
+      <Quantity>11</Quantity>
+      <Price>0.1387</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Mobistar</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1095</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0377</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0214</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0020</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1785</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0066</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0745</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0125</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0013</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0120</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0023</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Moldcell</Name>
+      <Quantity>1</Quantity>
+      <Price>0.2805</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Tim</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0286</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Tim</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0579</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1375</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Wind</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0235</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Wind</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0711</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Wind</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0807</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile H3G</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0121</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2859</Quantity>
+      <Price>9.9448</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>940</Quantity>
+      <Price>3.4034</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>16326</Quantity>
+      <Price>294.7228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>5107</Quantity>
+      <Price>91.2910</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>20833</Quantity>
+      <Price>327.2428</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>9200</Quantity>
+      <Price>133.6102</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>9468</Quantity>
+      <Price>157.8954</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>277</Quantity>
+      <Price>4.5558</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>799</Quantity>
+      <Price>14.8194</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>881</Quantity>
+      <Price>21.1866</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>130</Quantity>
+      <Price>2.4788</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>474</Quantity>
+      <Price>8.2856</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0638</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>324</Quantity>
+      <Price>4.4588</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>236</Quantity>
+      <Price>3.7888</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>345</Quantity>
+      <Price>6.9548</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>378</Quantity>
+      <Price>7.7710</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>114</Quantity>
+      <Price>2.5294</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>346</Quantity>
+      <Price>5.2820</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Switzerland Mobile - Salt</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0037</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Mobilkom</Name>
+      <Quantity>9</Quantity>
+      <Price>0.1738</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Tmobile</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1143</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17100112">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>34</Quantity>
+      <Price>0.3480</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0049</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>74</Quantity>
+      <Price>2.6239</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>28</Quantity>
+      <Price>0.7615</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>42</Quantity>
+      <Price>1.3813</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>14</Quantity>
+      <Price>0.4252</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>9</Quantity>
+      <Price>0.3097</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0775</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17100113">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.2337</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="31" agreementnumber="0000000026" clientid="" number="INV17100114">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>25</Quantity>
+      <Price>0.1258</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-11-17</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="2" agreementnumber="0000000002" clientid="" number="INV1711011">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>12</Quantity>
+      <Price>1.2669</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>8</Quantity>
+      <Price>0.9204</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>33</Quantity>
+      <Price>1.7305</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>29</Quantity>
+      <Price>1.8669</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>19</Quantity>
+      <Price>1.1411</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>2</Quantity>
+      <Price>0.2854</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0901</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0399</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1711012">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>164</Quantity>
+      <Price>0.4592</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1711013">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1056</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0270</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1711014">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>19</Quantity>
+      <Price>0.1048</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0035</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1026</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0266</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1711015">
+    <Product>
+      <Name>Italy Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0295</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Tim</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0502</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0559</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8</Quantity>
+      <Price>0.5917</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1711016">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>175</Quantity>
+      <Price>4.0782</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1711017">
+    <Product>
+      <Name>Moldova - Mobile Moldcell</Name>
+      <Quantity>1</Quantity>
+      <Price>2.4472</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>10</Quantity>
+      <Price>0.9983</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>10</Quantity>
+      <Price>0.5449</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0627</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0920</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1711018">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0115</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.2516</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0771</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1711019">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0654</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV17110110">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>40</Quantity>
+      <Price>5.1068</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>73</Quantity>
+      <Price>14.8766</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17110111">
+    <Product>
+      <Name>Belgium Mobile - Proximus</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0162</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Base</Name>
+      <Quantity>6</Quantity>
+      <Price>0.0645</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Belgium Mobile - Mobistar</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0959</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0008</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0321</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0158</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0037</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0133</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Mobile - Pannon</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0071</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova Chisinau</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0282</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Tim</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0385</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Tim</Name>
+      <Quantity>2</Quantity>
+      <Price>0.1507</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Tim</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0220</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy Proper</Name>
+      <Quantity>2</Quantity>
+      <Price>4.3065</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Tim</Name>
+      <Quantity>4</Quantity>
+      <Price>0.4055</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Wind</Name>
+      <Quantity>5</Quantity>
+      <Price>0.0473</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Wind</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0425</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile H3G</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0114</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2319</Quantity>
+      <Price>8.4598</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>937</Quantity>
+      <Price>3.6510</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1084</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Enigma</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0108</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>15167</Quantity>
+      <Price>275.7810</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>4842</Quantity>
+      <Price>82.8126</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>18212</Quantity>
+      <Price>301.5156</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>8079</Quantity>
+      <Price>120.9030</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>8414</Quantity>
+      <Price>143.1806</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>334</Quantity>
+      <Price>6.0316</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>661</Quantity>
+      <Price>12.0378</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>925</Quantity>
+      <Price>23.7514</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>130</Quantity>
+      <Price>2.6166</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>451</Quantity>
+      <Price>7.4986</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0116</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>274</Quantity>
+      <Price>5.1608</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>198</Quantity>
+      <Price>3.5206</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>283</Quantity>
+      <Price>5.2592</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>329</Quantity>
+      <Price>6.2936</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>86</Quantity>
+      <Price>1.6524</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>335</Quantity>
+      <Price>6.0146</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Switzerland Mobile - Salt</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0348</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Tmobile</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0158</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Mobilkom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0068</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Tmobile</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0520</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Uk Mobile - Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Tmobile</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0270</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17110112">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>18</Quantity>
+      <Price>0.1334</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>76</Quantity>
+      <Price>2.7029</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>19</Quantity>
+      <Price>0.5202</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>35</Quantity>
+      <Price>1.3342</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0467</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>13</Quantity>
+      <Price>0.2964</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0657</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17110113">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0310</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1721</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="31" agreementnumber="0000000026" clientid="" number="INV17110114">
+    <Product>
+      <Name>Latvia - Fixed</Name>
+      <Quantity>8</Quantity>
+      <Price>7.1347</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.4314</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Others</Name>
+      <Quantity>1</Quantity>
+      <Price>0.3664</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Armenia - Fixed</Name>
+      <Quantity>6</Quantity>
+      <Price>2.4920</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Armenia - Fixed Yerevan</Name>
+      <Quantity>22</Quantity>
+      <Price>7.4841</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Armenia - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.3105</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Armenia - Mobile</Name>
+      <Quantity>3</Quantity>
+      <Price>0.8250</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Armenia Mobile - Vivacell</Name>
+      <Quantity>2</Quantity>
+      <Price>0.7058</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Armenia - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.6108</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>15</Quantity>
+      <Price>0.0798</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0083</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0274</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0243</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="33" agreementnumber="0000000028" clientid="" number="INV17110115">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>9</Quantity>
+      <Price>0.6677</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0783</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1353</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>7</Quantity>
+      <Price>0.2139</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="35" agreementnumber="0000000030" clientid="" number="INV17110116">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0129</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2017-12-02</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="3" agreementnumber="0000000003" clientid="" number="INV1712011">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>150</Quantity>
+      <Price>0.4378</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="4" agreementnumber="0000000004" clientid="" number="INV1712012">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="5" agreementnumber="0000000005" clientid="" number="INV1712013">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>8</Quantity>
+      <Price>0.0373</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="6" agreementnumber="0000000006" clientid="" number="INV1712014">
+    <Product>
+      <Name>Belgium Proper</Name>
+      <Quantity>1</Quantity>
+      <Price>0.6118</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Spain - Fixed</Name>
+      <Quantity>5</Quantity>
+      <Price>0.0237</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Spain - Fixed</Name>
+      <Quantity>4</Quantity>
+      <Price>0.2400</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0036</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Enigma</Name>
+      <Quantity>2</Quantity>
+      <Price>0.2839</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>7</Quantity>
+      <Price>0.2983</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>22</Quantity>
+      <Price>1.2000</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="7" agreementnumber="0000000007" clientid="" number="INV1712015">
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>93</Quantity>
+      <Price>2.1246</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="8" agreementnumber="0000000008" clientid="" number="INV1712016">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>7</Quantity>
+      <Price>0.1672</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0085</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>19</Quantity>
+      <Price>0.8698</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0688</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>11</Quantity>
+      <Price>0.3618</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>5</Quantity>
+      <Price>0.1140</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0467</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0684</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="9" agreementnumber="0000000009" clientid="" number="INV1712017">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0028</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0456</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="10" agreementnumber="0000000010" clientid="" number="INV1712018">
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0954</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0376</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="16" agreementnumber="0000000016" clientid="" number="INV1712019">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0176</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>20</Quantity>
+      <Price>3.7350</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>62</Quantity>
+      <Price>10.8669</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="22" agreementnumber="0000000017" clientid="" number="INV17120110">
+    <Product>
+      <Name>Belgium Mobile - Base</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0573</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile SFR</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0163</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0018</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0015</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Mobile Bouygues</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0089</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0027</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France Mobile - Sfr</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0005</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0699</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>France - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0147</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Mobile - Pannon</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0552</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Hungary Mobile - Tmobile</Name>
+      <Quantity>5</Quantity>
+      <Price>0.3436</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Italy - Mobile Wind</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1434</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2180</Quantity>
+      <Price>8.5248</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>747</Quantity>
+      <Price>2.9874</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>13317</Quantity>
+      <Price>228.9204</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>3987</Quantity>
+      <Price>70.2226</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>15125</Quantity>
+      <Price>249.0174</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>6519</Quantity>
+      <Price>98.3344</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>6692</Quantity>
+      <Price>114.1302</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Others</Name>
+      <Quantity>246</Quantity>
+      <Price>4.2598</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>512</Quantity>
+      <Price>9.9270</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1055</Quantity>
+      <Price>25.9924</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>90</Quantity>
+      <Price>1.3092</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>358</Quantity>
+      <Price>7.1544</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>4</Quantity>
+      <Price>0.0560</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>211</Quantity>
+      <Price>4.3442</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>168</Quantity>
+      <Price>3.1986</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>230</Quantity>
+      <Price>5.5556</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>306</Quantity>
+      <Price>5.2732</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>62</Quantity>
+      <Price>1.2752</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>288</Quantity>
+      <Price>5.1404</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Austria Mobile - Mobilkom</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0062</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Poland Mobile - Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.3595</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="26" agreementnumber="0000000021" clientid="" number="INV17120111">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>71</Quantity>
+      <Price>0.3180</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>7</Quantity>
+      <Price>0.0397</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>26</Quantity>
+      <Price>0.8497</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>19</Quantity>
+      <Price>0.4750</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>31</Quantity>
+      <Price>0.9386</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1858</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>7</Quantity>
+      <Price>0.3656</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>1</Quantity>
+      <Price>0.1319</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>4</Quantity>
+      <Price>0.1809</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="27" agreementnumber="0000000022" clientid="" number="INV17120112">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0049</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0085</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0365</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile DIGI</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0395</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="31" agreementnumber="0000000026" clientid="" number="INV17120113">
+    <Product>
+      <Name>Moldova Chisinau</Name>
+      <Quantity>55</Quantity>
+      <Price>32.4712</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>2</Quantity>
+      <Price>1.3120</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>1</Quantity>
+      <Price>0.4236</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Voxtel</Name>
+      <Quantity>8</Quantity>
+      <Price>3.6947</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Moldova - Mobile Moldcell</Name>
+      <Quantity>1</Quantity>
+      <Price>0.6264</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Ukraine - Fixed Odessa</Name>
+      <Quantity>8</Quantity>
+      <Price>1.8586</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Ukraine - Mobile Kyivstar</Name>
+      <Quantity>1</Quantity>
+      <Price>0.6302</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>12</Quantity>
+      <Price>0.0850</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0627</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="33" agreementnumber="0000000028" clientid="" number="INV17120114">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>2</Quantity>
+      <Price>0.0084</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>12</Quantity>
+      <Price>0.6259</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Vodafone</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>10</Quantity>
+      <Price>0.3348</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Telekom</Name>
+      <Quantity>3</Quantity>
+      <Price>0.1079</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+  <Invoice user_id="36" agreementnumber="0000000031" clientid="" number="INV17120115">
+    <Product>
+      <Name>Romania - Fixed</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0040</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>1</Quantity>
+      <Price>0.0228</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+    <Product>
+      <Name>Romania - Mobile Orange</Name>
+      <Quantity>3</Quantity>
+      <Price>0.0684</Price>
+      <Date_added></Date_added>
+      <Issue_date>2018-01-03</Issue_date>
+    </Product>
+  </Invoice>
+</Invoices>
