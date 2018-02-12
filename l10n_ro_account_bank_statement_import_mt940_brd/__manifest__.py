@@ -3,7 +3,7 @@
 
 {
     'name': 'MT940 BRD Format Bank Statements Import',
-    'version': '11.0.1.0.0',
+    'version': '10.0.1.0.0',
     'license': 'AGPL-3',
     'author': 'Forest and Biomass Romania, '
               'Odoo Community Association (OCA)',
