@@ -85,6 +85,7 @@ class invoice_import_xml(models.TransientModel):
                     if customer:
                         invoice_account = customer.property_account_receivable_id
                         invoice_currency = customer.property_product_pricelist.currency_id
+                        invoice_fiscal_position = customer.property_account_position_id
                     else:
                         continue
                     values = {'name': number,
@@ -110,7 +111,11 @@ class invoice_import_xml(models.TransientModel):
 
 
                         account = self.account_id
-
+                        if invoice_fiscal_position:
+                            l_taxes = invoice_fiscal_position.map_tax(product.taxes_id, product, customer)
+                            line_taxes = [(6, 0, ([rec.id for rec in l_taxes]))]
+                        else:
+                            line_taxes = [(6, 0, ([rec.id for rec in product.taxes_id]))]
                         values['invoice_line_ids'] += [(0, 0, {
                             'name': name.text,
                             'product_id': product.id,
@@ -118,7 +123,7 @@ class invoice_import_xml(models.TransientModel):
                             'price_unit': price_unit,
                             'account_id': account.id,
                             'comment':comment,
-                            'invoice_line_tax_ids': [(6, 0, ([rec.id for rec in product.taxes_id]))],
+                            'invoice_line_tax_ids': line_taxes,
                         })]
 
 

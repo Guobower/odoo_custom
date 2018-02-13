@@ -679,8 +679,8 @@
 	                            </td>
 	                            <td class="text-right">
 	                                <t t-set="price_unit_without_taxes" t-value="l.price_unit_without_taxes"/>
-	                                <!--<t t-set="price_unit_without_taxes" t-value="o.currency_id.with_context(date=o.date_invoice).compute(price_unit_without_taxes,currency_id)"/>
-	                                <span id="price_unit_without_taxes" t-esc="price_unit_without_taxes"/>-->
+	                                <t t-set="price_unit_without_taxes" t-value="o.currency_id.with_context(date=o.date_invoice).compute(price_unit_without_taxes,currency_id)"/>
+	                                <span id="price_unit_without_taxes" t-esc="price_unit_without_taxes"/>
 	                            </td>
 	                            <td class="text-right" t-if="with_discount(o)" groups="sale.group_discount_per_so_line">
 	                                <span t-field="l.discount"/>
