@@ -33,7 +33,7 @@ Functionalitati:
         'security/ir.model.access.csv',
         'views/radius_view.xml',
         'views/res_partner_view.xml',
-        'data/radius_data.xml',
+        #'data/radius_data.xml',
         'wizard/radius_disconnect_view.xml'
     ],
 
